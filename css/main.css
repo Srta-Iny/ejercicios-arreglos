@@ -1,0 +1,14 @@
+body {
+  background-color: #FFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0) 29px, rgba(0, 0, 0, .05) 29px, rgba(0, 0, 0, .05) 30px), linear-gradient(90deg, rgba(0, 0, 0, 0) 29px, rgba(0, 0, 0, .05) 29px, rgba(0, 0, 0, .05) 30px);
+  background-size: 30px 30px, 30px 30px;
+  font-family: 'Architects Daughter', cursive;
+}
+h1, h4{
+	text-decoration: underline;
+	color: #232c9e;
+}
